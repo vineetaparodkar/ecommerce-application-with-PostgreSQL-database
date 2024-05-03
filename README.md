@@ -1,5 +1,5 @@
 # Ecommerce Website 
-Contains frontend and backend code with POSGRESQL for ecommerce UI & API
+Contains frontend and backend code with PostgreSQL for ecommerce UI & API
 
 ## Directory Structure
 
